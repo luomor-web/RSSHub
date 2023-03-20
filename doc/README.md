@@ -11,4 +11,6 @@ sudo docker diygod/rsshub:chromium-bundled
 sudo docker pull diygod/rsshub:chromium-bundled-2021-06-18
 sudo docker run -d --name rsshub -p 1200:1200 diygod/rsshub
 sudo docker stop rsshub
+
+sudo docker run -d --name rsshub -p 1200:1200 -e CACHE_EXPIRE=3600 -e GITHUB_ACCESS_TOKEN=example diygod/rsshub
 ```
