@@ -9,6 +9,11 @@ docker-compose ps
 http://82.157.54.206:8081/
 http://82.157.54.206:8081/twitter/user/DIYgod
 http://82.157.54.206:8081/bilibili/bangumi/media/9192
+http://82.157.54.206:8081/baai/hub
+
+https://rss.injahow.cn/bilibili/bangumi/media/9192
+https://rss.injahow.cn/baai/hub
+https://rss.itggg.cn/baai/hub
 
 https://rsshub.rssforever.com
 https://rss.qiuyuair.com
