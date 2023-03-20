@@ -4,6 +4,8 @@ sudo docker volume create redis-data
 sudo docker-compose up -d
 sudo docker-compose down
 
+docker-compose ps
+
 sudo docker pull diygod/rsshub
 
 sudo docker pull diygod/rsshub:2021-06-18

@@ -1,0 +1,6 @@
+docker-compose ps
+        Name                      Command               State           Ports
+--------------------------------------------------------------------------------------
+docker_browserless_1   ./start.sh                       Up      3000/tcp
+docker_redis_1         docker-entrypoint.sh redis ...   Up      6379/tcp
+docker_rsshub_1        dumb-init -- npm run start       Up      0.0.0.0:1200->1200/tcp
