@@ -6,6 +6,9 @@ sudo docker-compose down
 
 docker-compose ps
 
+http://82.157.54.206:8081/
+http://82.157.54.206:8081/twitter/user/DIYgod
+
 sudo docker pull diygod/rsshub
 
 sudo docker pull diygod/rsshub:2021-06-18
