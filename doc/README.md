@@ -10,6 +10,16 @@ http://82.157.54.206:8081/
 http://82.157.54.206:8081/twitter/user/DIYgod
 http://82.157.54.206:8081/bilibili/bangumi/media/9192
 
+https://rsshub.rssforever.com
+https://rss.qiuyuair.com
+https://rss.injahow.cn
+https://rss.feiyuyu.net
+https://rss.shab.fun
+https://rss.itggg.cn
+https://rsshub.uneasy.win
+https://rss.injahow.cn
+https://rsshub.anyant.xyz
+
 sudo docker pull diygod/rsshub
 
 sudo docker pull diygod/rsshub:2021-06-18
