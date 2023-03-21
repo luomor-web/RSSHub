@@ -14,6 +14,7 @@ http://82.157.54.206:8081/baai/hub
 https://rss.injahow.cn/bilibili/bangumi/media/9192
 https://rss.injahow.cn/baai/hub
 https://rss.itggg.cn/baai/hub
+https://aigc.luomor.com/wprss
 
 https://rsshub.rssforever.com
 https://rss.qiuyuair.com
